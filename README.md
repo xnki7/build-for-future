@@ -13,9 +13,7 @@ Med-x is a decentralised healthcare booking platform focused on mental healthcar
   
 ## Presentation Link:
   <a href="https://www.canva.com/design/DAFeO3V6Tu4/TC3o8CSwz_6thCp3k2YL-g/view?utm_content=DAFeO3V6Tu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> PPT link here </a>
-  
-  
-## Table of Contents:
+ 
 
 ## Technology Stack:
   1) ReactJs
@@ -29,10 +27,10 @@ Med-x is a decentralised healthcare booking platform focused on mental healthcar
 
 Team Name: AlphaChamps
 
-* [Aneerban Saha]()
-* [Sameer Madhav D]()
-* [Ankit Gupta]()
-* [Sarthak Garg]()
+* [Aneerban Saha](https://twitter.com/AneerbanS)
+* [Sameer Madhav D](https://twitter.com/SameerMadhavD1)
+* [Ankit Gupta](https://twitter.com/_this_ankit)
+* [Sarthak Garg](https://twitter.com/Sarthak21123022)
 
 
 ### Made at:
