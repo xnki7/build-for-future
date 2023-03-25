@@ -6,10 +6,10 @@
 
 
 ## Introduction:
-  Brief description of the project
+Med-x is a decentralised healthcare booking platform focused on mental healthcare and wellness. It provides a discrete and anonymous channel for users to seek professional help when it comes to mental healthcare, doing so in a seamless and paperless way. We also help users in keeping record of previous diagnosis and prescriptions for future reference in a safe and secure manner.
   
 ## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+  <a href="https://youtu.be/xEVL1sQNLLY">Youtube Link</a>
   
 ## Presentation Link:
   <a href="https://www.canva.com/design/DAFeO3V6Tu4/TC3o8CSwz_6thCp3k2YL-g/view?utm_content=DAFeO3V6Tu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> PPT link here </a>
