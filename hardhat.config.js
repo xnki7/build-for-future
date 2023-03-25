@@ -1,8 +1,8 @@
 require("@nomicfoundation/hardhat-toolbox");
 require("dotenv").config();
 
-const GOERLI_RPC_URL = process.env.GOERLI_RPC_URL;
-const GOERLI_PK = process.env.GOERLI_PK;
+const POLYGON_MUMBAI_RPC = process.env.POLYGON_MUMBAI_RPC;
+const POLYGON_MUMBAI_KEY = process.env.POLYGON_MUMBAI_KEY;
 
 module.exports = {
   solidity: "0.8.17",
@@ -22,6 +22,15 @@ module.exports = {
       blockConfirmations: 6,
       url: GOERLI_RPC_URL,
       accounts: [GOERLI_PK],
+      gas: 50000000,
+      maxFeePerGas: 250000000000,
+      maxPriorityFeePerGas: 250000000000,
+    },
+    polygon: {
+      chainId: 80001,
+      blockConfirmations: 6,
+      url: POLYGON_MUMBAI_RPC,
+      accounts: [POLYGON_MUMBAI_KEY],
       gas: 50000000,
       maxFeePerGas: 250000000000,
       maxPriorityFeePerGas: 250000000000,
