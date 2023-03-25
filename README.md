@@ -12,7 +12,7 @@
   <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
   
 ## Presentation Link:
-  <a href=" https://www.canva.com/design/DAFeO3V6Tu4/TC3o8CSwz_6thCp3k2YL-g/view?utm_content=DAFeO3V6Tu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "> PPT link here </a>
+  <a href="https://www.canva.com/design/DAFeO3V6Tu4/TC3o8CSwz_6thCp3k2YL-g/view?utm_content=DAFeO3V6Tu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> PPT link here </a>
   
   
 ## Table of Contents:
