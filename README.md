@@ -1,4 +1,4 @@
-<h1 align="center"> HBuidl for the future </h1>
+<h1 align="center"> Buidl for the future </h1>
 <p align="center">
 </p>
 
