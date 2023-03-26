@@ -9,4 +9,4 @@
   <a href="https://youtu.be/sDQCvejnuU8">Video Link</a>
   
 ## Presentation Link:
-  <a href="https://www.canva.com/design/DAFeO3V6Tu4/TC3o8CSwz_6thCp3k2YL-g/view?utm_content=DAFeO3V6Tu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> PPT link  </a>
+  <a href="https://www.canva.com/design/DAFeUW8NB8s/5HUlbqHPAX9utCCvPyjDHg/view?utm_content=DAFeUW8NB8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Presentation link  </a>
